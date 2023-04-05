@@ -1,3 +1,3 @@
 Welcome.
 
-[Wiki](/wiki)
+[Wiki](https://github.com/TLD-Mods/Guides/wiki)
