@@ -1,0 +1,3 @@
+Welcome.
+
+[Wiki](/wiki)
